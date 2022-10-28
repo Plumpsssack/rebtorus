@@ -2,6 +2,6 @@
 export default defineNuxtConfig({
   target: "static",
   router: {
-    base: "/rebtorus/",
+    base: "plumpsssack.github.io/rebtorus/",
   },
 });
